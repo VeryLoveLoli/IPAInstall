@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fanqielive.zb</string>
+				<string>com.miguolive.zb</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>box hong</string>
+				<string>box chunjie huang</string>
 			</dict>
 		</dict>
 	</array>
